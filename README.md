@@ -45,7 +45,7 @@ I developed this as part of my ongoing exploration of Go and to create a simple,
    ```  
 3. Navigate into the project directory:  
    ```bash
-   cd rock-paper-scissors
+   cd Rock-Paper-Scissors---Using-GO
    ```  
 4. Run the game:  
    ```bash
